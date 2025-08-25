@@ -1,0 +1,19 @@
+[project]
+name = "aiops-platform-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain>=0.3.27",
+    "langchain-openai>=0.3.31",
+    "langgraph>=0.6.6",
+    "pandas>=2.3.2",
+    "prometheus-client>=0.22.1",
+    "prometheus-remote-writer>=0.0.12",
+    "prophet>=1.1.7",
+    "python-dotenv>=1.1.1",
+    "python-snappy>=0.7.3",
+    "requests>=2.32.5",
+    "scikit-learn>=1.7.1",
+]

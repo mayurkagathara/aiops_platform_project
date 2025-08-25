@@ -1,0 +1,3 @@
+2025-08-24 18:10:53,180 - INFO - Data read successfully from C:\Users\admin\Documents\VP\Week 7-8\aiops_platform_project\project1-aiops\data\nab\realAWSCloudwatch\ec2_cpu_utilization_ac20cd.csv
+2025-08-24 18:10:53,212 - INFO - Timestamps updated to the current year: 2025
+2025-08-24 18:10:53,272 - ERROR - Failed to push historical data to Prometheus: Failed to send data to http://localhost:9090/api/v1/write: 404 Client Error: Not Found for url: http://localhost:9090/api/v1/write

@@ -1,0 +1,4 @@
+2025-08-24 15:20:32,341 - INFO - Data pulled from Prometheus for metric: nab_metric
+2025-08-24 15:20:32,367 - ERROR - Error during anomaly detection: "None of [Index(['value'], dtype='object')] are in the [columns]"
+2025-08-24 15:24:08,906 - INFO - Data pulled and preprocessed from Prometheus for metric: nab_metric
+2025-08-24 15:24:08,928 - ERROR - Error during anomaly detection: "None of [Index(['value'], dtype='object')] are in the [columns]"
